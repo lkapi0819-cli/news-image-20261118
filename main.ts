@@ -12,6 +12,9 @@
 // the output directory untouched, so both graded runs write exactly the
 // same bytes.
 //
+// Composition pass v2: the Gulf and Ukraine cards use focal crops that keep
+// the drones in frame, and the ticker carries six items.
+//
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 

@@ -17,7 +17,7 @@ earthquake.
 
 The page was composed programmatically: seven text-free editorial
 illustrations were generated, then the masthead, headlines and ticker were
-typeset over them with PIL into one 1024×1024 JPEG (307,360 bytes), stored in
+typeset over them with PIL into one 1024×1024 JPEG (305,931 bytes), stored in
 this repository as `entry.png`.
 
 ## Run
